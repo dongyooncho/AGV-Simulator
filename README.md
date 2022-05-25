@@ -67,7 +67,7 @@
 <details>
 <summary>프로젝트 소개</summary>
   
-![프로젝트 소개](./docs/introduction.png)
+![프로젝트 소개](./docs/introduction2.png)
 
 </details>
 

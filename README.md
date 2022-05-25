@@ -66,12 +66,14 @@
 
 <details>
 <summary>프로젝트 소개</summary>
+  
 ![프로젝트 소개](./docs/introduction.png)
 
 </details>
 
 <details>
 <summary>기술스택</summary>
+
 ![기술스택](./docs/TechStacks.png)
 
 > 파워포인트를 활용해 작성했습니다
@@ -80,6 +82,7 @@
 
 <details>
 <summary>아키텍쳐 구성도</summary>
+  
 ![아키텍쳐 구성도(Technical Architecture Diagram)](docs/architecture.png)
 
 > [파워포인트를 활용](docs/architecture.pptx)해 작성했습니다
@@ -90,6 +93,7 @@
 
 <details>
 <summary>프로젝트 구조도</summary>
+  
 ![프로젝트 구조도](./docs/project-structure.png)
 
 > [파워포인트를 활용](docs/project-structure.pptx)해 작성했습니다
